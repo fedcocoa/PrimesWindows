@@ -1,0 +1,13 @@
+c:\users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\obj\Debug\PrimesWindows.csprojResolveAssemblyReference.cache
+c:\users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\obj\Debug\PrimesWindows.Form1.resources
+c:\users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\obj\Debug\PrimesWindows.Properties.Resources.resources
+c:\users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\obj\Debug\PrimesWindows.csproj.GenerateResource.Cache
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\bin\Debug\PrimesWindows.exe.config
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\bin\Debug\PrimesWindows.exe
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\bin\Debug\PrimesWindows.pdb
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\obj\Debug\PrimesWindows.exe
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\obj\Debug\PrimesWindows.pdb
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\bin\Debug\PrimesWindows.exe.manifest
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\bin\Debug\PrimesWindows.application
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\obj\Debug\PrimesWindows.exe.manifest
+C:\Users\rohan\documents\visual studio 2017\Projects\PrimesWindows\PrimesWindows\obj\Debug\PrimesWindows.application
